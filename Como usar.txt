@@ -1,9 +1,8 @@
 Professor fiz o trabalho utilizando o VSCode!
 
+Precisa que as extenções estejam baixadas do java e do extended java
+
 No VS Code, abra o Terminal:
 
-No terminal, digite este comando para compilar:
-javac Contact.java Node.java ContactList.java ContactManager.java
-
-Agora, execute o programa com:
+Agora, de run nesse arquivo:
 java ContactManager

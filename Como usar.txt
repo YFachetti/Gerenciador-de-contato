@@ -1,0 +1,3 @@
+Professor fiz o trabalho utilizando o VSCode!
+
+Executar o programa com o java ContactManager, no terminal.
